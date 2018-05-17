@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "429058668386",
+    "firebase_url": "https://hobies-5fbe0.firebaseio.com",
+    "project_id": "hobies-5fbe0",
+    "storage_bucket": "hobies-5fbe0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429058668386:android:d1de4505bd17739c",
+        "android_client_info": {
+          "package_name": "com.example.bookolik.hobies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "429058668386-muhh1rdnslhobfetbtb6g6cps2md6ajg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bookolik.hobies",
+            "certificate_hash": "66ddbaa83b3111b1412ecda76e3b75f7bf00db1e"
+          }
+        },
+        {
+          "client_id": "429058668386-la9f2papnvvblaib1foo9dq8gieokj58.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7d6y-OQ1Cjuc25bhh5PNEZZCm6_TGTJo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "429058668386-la9f2papnvvblaib1foo9dq8gieokj58.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
